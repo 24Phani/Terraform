@@ -5,5 +5,5 @@
 *.tfstate
 *.tfstate.*
 
-# .tfvars files
-*.tfvars
+# .hcl files
+*.hcl
