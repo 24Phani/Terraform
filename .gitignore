@@ -7,3 +7,4 @@
 
 # .hcl files
 *.hcl
+*.locl.hcl
