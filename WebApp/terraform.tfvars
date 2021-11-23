@@ -1,0 +1,5 @@
+location = "eastus"
+resourceGroupName = "Dev5"
+kind = "Linux"
+size = "F1"
+name = "clouddevplan"
