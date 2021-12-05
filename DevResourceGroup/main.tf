@@ -20,3 +20,8 @@ resource "azurerm_resource_group" "DevRG" {
         environment = "Dev"
     }
 }
+
+resource "azurerm_resource_group" "DevRG" {
+  
+  
+}
