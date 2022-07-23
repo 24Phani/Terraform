@@ -4,3 +4,4 @@
 # .tfstate files
 *.tfstate
 *.tfstate.*
+AWS/.terraform.lock.hcl
